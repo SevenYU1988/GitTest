@@ -1,4 +1,1 @@
-aaabbccc
-Iit version 2.16.2.windows.1
-新增内容
-second
+git is easy to user
