@@ -1,1 +1,4 @@
+START
 git is easy to user
+git is useful
+end
